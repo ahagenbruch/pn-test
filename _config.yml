@@ -1,6 +1,6 @@
 safe: true
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'serve.sh', 'article.png', 'LICENSE']
-baseurl: /paper-now
+baseurl: /suchen-ein-prototyp-zum-vergleich-von-discovery-diensten
 javascripts:
     jquery: https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js
     modernizr: https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js
